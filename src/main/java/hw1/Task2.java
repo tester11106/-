@@ -12,6 +12,12 @@ public class Task2 {
         System.out.println("feswerhghtrf");
         System.out.println("feswerhghtrf");
         System.out.println("feswerhghtrf");
+        System.out.println("feswerhghtrf");
+
+        System.out.println("feswerhghtrf");
+
+        System.out.println("feswerhghtrf");
+
 
     }
 
